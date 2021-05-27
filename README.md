@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/IMakeXolxoz/IMakeXolxoz/wave.gif" width="25px"> Hi there! 
+## <img src="https://github.com/IMakeXolxoz/IMakeXolxoz/blob/main/data/wave.gif" width="25px"> Hi there! 
 
 My name is Pavel, and I am a novice software engineer. I am from Russia, I live in the ❄Trans-Baikal Territory and am currently studying 
 
