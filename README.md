@@ -4,7 +4,7 @@ My name is Pavel, and I am a novice software engineer. I am from Russia, I live 
 
 ### 📺 Channel
 
-Apart from coding, I also maintain a YouTube channel - you can find my videos at [IMakeXolxoz](https://www.youtube.com/channel/UCWrTVn7cnvuFGTDn0M1nz3w)
+Apart from coding, I also maintain a YouTube channel - you can find my videos at [IMakeKolxoz](https://www.youtube.com/channel/UCWrTVn7cnvuFGTDn0M1nz3w)
 
 ### 🔧 Technologies & Tools
 
