@@ -9,7 +9,7 @@ Apart from coding, I also maintain a YouTube channel - you can find my videos at
 ### 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=Python&logoColor=white&color=5194f0&bgcolor=110d17)
-![](https://img.shields.io/badge/Code-html-informational?style=flat-square&logo=html&logoColor=white&color=5194f0&bgcolor=110d17)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat-square&logo=html&logoColor=white&color=5194f0&bgcolor=110d17)
 ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=5194f0)
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat-square&logo=PyCharm&logoColor=white&color=5194f0)
 
